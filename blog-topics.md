@@ -7,4 +7,5 @@
 2. Helm Maintainer Spotlight (Blog Series)
 3. Case Studies
 4. Solution Guides
-5. <insert topic here>
+5. Helm Hub -> Artifact Hub
+6. <insert topic here>
